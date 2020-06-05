@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "stormyHO",
+  "short_name": "stormyHO",
 
   "icons": [{
     "src": "images/ic_launcher.png",
@@ -9,7 +9,7 @@
     }],
 
   "lang": "en-US",
-  "start_url": "/index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
